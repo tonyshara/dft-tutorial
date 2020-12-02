@@ -6,7 +6,9 @@ https://www.notion.so/Project-T-0e6f5b376b4e4cfca401b79b09e53124
 ## Week 12: Topic 48: Encoding Audio with DFT
 Notes and tutorial on encoding audio with DFT.  The tutorial includes an application of encoding audio with DFT for voice detection.
 
-## [Slide Deck](https://docs.google.com/presentation/d/1JvC1tWXIGimRa46gFDV5A6qMrBPYeKorfgcRcOUrUTo/edit?usp=sharing)
+## [Slide Deck (click here)](https://docs.google.com/presentation/d/1JvC1tWXIGimRa46gFDV5A6qMrBPYeKorfgcRcOUrUTo/edit?usp=sharing)
+- Acompanying slide deck for an overview of the lab and note
+
 
 
 # Introduction
