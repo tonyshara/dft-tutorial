@@ -7,7 +7,7 @@ https://www.notion.so/Project-T-0e6f5b376b4e4cfca401b79b09e53124
 Notes and tutorial on encoding audio with DFT.  The tutorial includes an application of encoding audio with DFT for voice detection.
 
 ## [Slide Deck (click here)](https://docs.google.com/presentation/d/1JvC1tWXIGimRa46gFDV5A6qMrBPYeKorfgcRcOUrUTo/edit?usp=sharing)
-- Acompanying slide deck for an overview of the lab and note
+- Acompanying slide deck for an overview of the lab and note (requires explanation from an instructor)
 
 
 
