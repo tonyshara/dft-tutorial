@@ -23,11 +23,9 @@ The goals of this lab are to:
 * Get hands on experience tackling a difficult real world problem using techniques learned in class
 
 # How to use this repository
-dft/DFT_Tutorial.ipynb
-dft/DFT_Tutorial_Soln.ipynb
-DFT_Note.pdf - contains lesson notes to teach about Encoding with DFT.  Meant to be read before attempting the acompanying lab and quiz
-DFT_Quiz.pdf - contains quiz questions to asses understanding of acompanying note and lab
-DFT_quiz_soln.pdf - contains solutions to the acompanying quiz
+* dft/DFT_Tutorial.ipynb --> lab assignment to be completed
+* dft/DFT_Tutorial_Soln.ipynb --> solutions to lab assignment
+* DFT_Note.pdf - contains lesson notes to teach about Encoding with DFT.  Meant to be read before attempting the acompanying lab and quiz
+* DFT_Quiz.pdf - contains quiz questions to asses understanding of acompanying note and lab
+* DFT_quiz_soln.pdf - contains solutions to the acompanying quiz
 
-contains the assignment to be completed, while 
-CIFAR10_Classification_solutions.ipynb gives the corresponding solutions.
