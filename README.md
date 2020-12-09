@@ -6,7 +6,9 @@ https://www.notion.so/Project-T-0e6f5b376b4e4cfca401b79b09e53124
 ## Week 12: Topic 48: Encoding Audio with DFT
 Notes and tutorial on encoding audio with DFT.  The tutorial includes an application of encoding audio with DFT for voice detection.
 
-## [Slide Deck](https://docs.google.com/presentation/d/1JvC1tWXIGimRa46gFDV5A6qMrBPYeKorfgcRcOUrUTo/edit?usp=sharing)
+## [Slide Deck (click here)](https://docs.google.com/presentation/d/1JvC1tWXIGimRa46gFDV5A6qMrBPYeKorfgcRcOUrUTo/edit?usp=sharing)
+- Acompanying slide deck for an overview of the lab and note (requires explanation from an instructor)
+
 
 
 # Introduction
@@ -19,3 +21,11 @@ The goals of this lab are to:
 * Gain a practical understanding of the frequency domain representation of data through visualizations
 * Gain an intuitive understanding of the benefits of using the frequency domain for certain types of data and applications
 * Get hands on experience tackling a difficult real world problem using techniques learned in class
+
+# How to use this repository
+* dft/DFT_Tutorial.ipynb --> lab assignment to be completed
+* dft/DFT_Tutorial_Soln.ipynb --> solutions to lab assignment
+* DFT_Note.pdf --> contains lesson notes to teach about Encoding with DFT.  Meant to be read before attempting the acompanying lab and quiz
+* DFT_Quiz.pdf --> contains quiz questions to asses understanding of acompanying note and lab
+* DFT_quiz_soln.pdf --> contains solutions to the acompanying quiz
+
